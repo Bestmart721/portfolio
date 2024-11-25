@@ -6,11 +6,7 @@
     </transition>
     <SpineLine :isPlaying="isSpinePlaying" />
     <div class="tweenerElement"></div>
-<<<<<<< HEAD
-hi
-=======
 hey
->>>>>>> main
     <FooterSection />
   </div>
 </template>
